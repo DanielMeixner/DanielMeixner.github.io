@@ -22,8 +22,8 @@ title: DevelopersDevelopersDevelopersDevelopers.net
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the place where Daniel Meixner is blogging.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://danielmeixner.github.io/dmx/" # the subpath of your site, e.g. /blog
+url: "https://danielmeixner.github.io/dmx/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: danielmeixner
 github_username:  danielmeixner
 
