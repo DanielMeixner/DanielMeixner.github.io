@@ -17,4 +17,4 @@ In the background automation will trigger a setup of your GitHub page using devc
 
 
 > Hint:
-> In case you already have another repo setup in YOUR-USERNAME.github.io you have to adjust the url in the _config.yml file to your new url. It will follow the pattern https://YOUR-USERNAME.github.com/YOUR-REPO-NAME
+> In case you already have another repo setup in YOUR-USERNAME.github.io you have to adjust the url in the _config.yml file to your new url. It will follow the pattern https://YOUR-USERNAME.github.com/YOUR-REPO-NAME . In this case you also have to explicitly enable Pages in the settings for your repo.
