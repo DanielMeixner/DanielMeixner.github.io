@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Connect to a virtual network with GitHub Codespaces
-permalink: /Codespaces-VPN-Azure
+permalink: /Codespaces-VPN-Azure/
 ---
 
 If you are interested in working with Codespaces and want to access resources in a private network here’s a guide how you can achive this. 
