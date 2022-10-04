@@ -38,41 +38,40 @@ Questions to be asked:
 - Will my users accept a reduced performance by reducing compute power? 
 ### Application Layer
 Questions to be asked:
-
 - Can I switch to another framework or language which will be more efficient?
 ### Architecture Layer
 Questions to be asked:
 - Can I scale in elastically to free up unused resources?
 - Can I increase the density of applications on a single host to improve utilization?
- - Can I design my application towards event-driven to avoid unnecessary polling?
- - Can I use cloud platform services where I share resources with other customers to increase utilization?
- - Can I use scale-out over scale-up to avoid higher clock speeds? 
+- Can I design my application towards event-driven to avoid unnecessary polling?
+- Can I use cloud platform services where I share resources with other customers to increase utilization?
+- Can I use scale-out over scale-up to avoid higher clock speeds? 
 ### Networking Layer
 Questions to be asked:
- - Can I reduce overall network traffic to save energy during data transfer?
- - Can I reduce the distance between client and service to reduce energy during data transfer?
+- Can I reduce overall network traffic to save energy during data transfer?
+- Can I reduce the distance between client and service to reduce energy during data transfer?
 ### Data Layer
 Questions to be asked:
- - Can I use caching to bring data closer to the user to reduce energy consumption during data transfer?
- - Can I use different database engines which work more efficently for  specific types of queries?
+- Can I use caching to bring data closer to the user to reduce energy consumption during data transfer?
+- Can I use different database engines which work more efficently for  specific types of queries?
 ### Physical Layer
 Questions to be asked:
- - Can I downsize my infrastructure components to improve utilization?
- - Can I move the location of my physical infrastructure towards a location which is running on green energy?
- - Can I time shift my computations towards a point in time where  green energy is being used (e.g. solar power)? 
- - Can I use a different chipset which will be more efficient for my task (e.g. ARM vs. X86)    
+- Can I downsize my infrastructure components to improve utilization?
+- Can I move the location of my physical infrastructure towards a location which is running on green energy?
+- Can I time shift my computations towards a point in time where  green energy is being used (e.g. solar power)? 
+- Can I use a different chipset which will be more efficient for my task (e.g. ARM vs. X86)    
 ### Governance Layer
 Questions to be asked:
- - In an enterprise can I cross charge cost for resource consumption so that people using resources will pay for it on a pay-as-you-go basis?
- - In an enterprise can I enforce de-provisioning of unused machines?
+- In an enterprise can I cross charge cost for resource consumption so that people using resources will pay for it on a pay-as-you-go basis?
+- In an enterprise can I enforce de-provisioning of unused machines?
 ### Provider Layer
 Questions to be asked:
- - Can I chose a provider with a green footprint?
+- Can I chose a provider with a green footprint?
 ### Cultural Layer
 Questions to be asked:
- - How can I ensure sustainability in software design is a priority for the leadership team?
- - How can I ensure sustainability in software is a topic software developers care about?
- - Can I build communities around sustainability in software?
+- How can I ensure sustainability in software design is a priority for the leadership team?
+- How can I ensure sustainability in software is a topic software developers care about?
+- Can I build communities around sustainability in software?
 
 
 ## Upsides and downsides
