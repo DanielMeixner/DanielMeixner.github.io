@@ -26,7 +26,7 @@ When designing an application we have to make several choices before, during and
 This "layer thing" is easy to understand (as a person with software engineering background) and at the same time it helps to focus on specifc aspects at specific times and not always all layers are relevant.
 As a disclaimer: I'm thinking about this from a cloud application point of view. So if you are more into mobile development, not all of the layers may be relevant to you (and there might be others).
 
-![A stack of layers decribing different areas where decisions have to be made during software development](docs/images/2022-10-04-layers.jpg)
+![A stack of layers decribing different areas where decisions have to be made during software development](../images/2022-10-04-layers.jpg)
 
 
 Let's go through all layers one by one. For every layer I will point out some questions you can ask. 
