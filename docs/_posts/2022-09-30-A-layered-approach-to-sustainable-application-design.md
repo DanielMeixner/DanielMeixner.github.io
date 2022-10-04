@@ -26,7 +26,7 @@ When designing an application we have to make several choices before, during and
 This "layer thing" is easy to understand (as a person with software engineering background) and at the same time it helps to focus on specifc aspects at specific times and not always all layers are relevant.
 As a disclaimer: I'm thinking about this from a cloud application point of view. So if you are more into mobile development, not all of the layers may be relevant to you (and there might be others).
 
-![A stack of layers decribing different areas where decisions have to be made during software development]()
+![A stack of layers decribing different areas where decisions have to be made during software development](../images/2022-10-04-layers.jpg)
 
 
 Let's go through all layers one by one. For every layer I will point out some questions you can ask. 
@@ -40,32 +40,39 @@ Questions to be asked:
 Questions to be asked:
     - Can I switch to another framework or language which will be more efficient?
 ### Architecture Layer
+Questions to be asked:
     - Can I scale in elastically to free up unused resources?
     - Can I increase the density of applications on a single host to improve utilization?
     - Can I design my application towards event-driven to avoid unnecessary polling?
     - Can I use cloud platform services where I share resources with other customers to increase utilization?
     - Can I use scale-out over scale-up to avoid higher clock speeds? 
 ### Networking Layer
+Questions to be asked:
     - Can I reduce overall network traffic to save energy during data transfer?
     - Can I reduce the distance between client and service to reduce energy during data transfer?
 ### Data Layer
+Questions to be asked:
     - Can I use caching to bring data closer to the user to reduce energy consumption during data transfer?
     - Can I use different database engines which work more efficently for  specific types of queries?
 ### Physical Layer
+Questions to be asked:
     - Can I downsize my infrastructure components to improve utilization?
     - Can I move the location of my physical infrastructure towards a location which is running on green energy?
     - Can I time shift my computations towards a point in time where  green energy is being used (e.g. solar power)? 
     - Can I use a different chipset which will be more efficient for my task (e.g. ARM vs. X86)    
 ### Governance Layer
+Questions to be asked:
     - In an enterprise can I cross charge cost for resource consumption so that people using resources will pay for it on a pay-as-you-go basis?
     - In an enterprise can I enforce de-provisioning of unused machines?
 ### Provider Layer
+Questions to be asked:
     - Can I chose a provider with a green footprint?
 ### Cultural Layer
+Questions to be asked:
     - How can I ensure sustainability in software design is a priority for the leadership team?
     - How can I ensure sustainability in software is a topic software developers care about?
     - Can I build communities around sustainability in software?
-    -       
+
 
 ## Upsides and downsides
 
