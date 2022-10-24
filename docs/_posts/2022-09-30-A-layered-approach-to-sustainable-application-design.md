@@ -6,7 +6,7 @@ permalink: /a-layered-approach-to-sustainable-application-design
 
 # tl;dr;
 There are multiple areas where we can adjust applications to reduce carbon emissions. Some of them might not be relevant to you, others might be out of your authority. It's good to have an understanding that those areas exist - this is where I think the layered approach can help.
-At this point (October 2022) there's no wholistic list of recommended patterns to build more sustainable applications. But there's a project on [GitHub](https://github.com/Green-Software-Foundation/green-software-pattern) working on this - let's support it to make it as complete as possible.  
+At this point (October 2022) there's no wholistic list of recommended patterns to build more sustainable applications. But there's a project on [GitHub](https://github.com/Green-Software-Foundation/green-software-patterns) working on this - let's support it to make it as complete as possible.  
 
 ## Designing sustainable applications
 
